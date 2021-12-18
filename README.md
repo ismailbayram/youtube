@@ -1,1 +1,1 @@
-Bu repo Youtube kanalımda paylaştığım videolardaki kod örneklerini içermektedir. 
+Bu repo ![Youtube kanalımda](https://www.youtube.com/c/ismailbayram) paylaştığım videolardaki kod örneklerini içermektedir. 
